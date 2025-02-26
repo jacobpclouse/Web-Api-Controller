@@ -2,6 +2,8 @@
 
 In this project, an ASP.NET Core web API has been developed to perform CRUD (Create, Read, Update, Delete) operations on a collection of pizzas stored in an in-memory cache.
 
+> Link: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-9.0&tabs=visual-studio-code
+
 ## Summary
 
 In this module, an ASP.NET Core web API running on .NET has been created. The web API creates, reads, updates, and deletes pizzas from an in-memory cache.
